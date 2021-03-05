@@ -99,6 +99,9 @@ _High-level architecture_
 
 ## Exercise 1: Build the architecture for collecting and ingesting (extract) data
 
+   >**Note**: Complete the Before HOL setup prior to proceeding to the challenge tasks below. Provide this link to participants to access the setup instructions.
+<https://github.com/msusdev/Industry-Omni-Channel/blob/main/Hands-on%20Labs/BeforeTheHOL/BeforeHOL.md>
+
 _Data ingest_
 
 1. What are your recommended options for ingesting payment transaction events and customer shopping data as they occur in a scalable way that can be easily processed while maintaining event order with no data loss?

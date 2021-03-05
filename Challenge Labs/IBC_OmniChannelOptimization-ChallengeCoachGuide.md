@@ -128,9 +128,7 @@ The current solution does get data into a number of databases, but the data is i
 In order to begin to work with the data from the various web app databases, you will be required to create a baseline environment with Azure Data Factory for data movement and processing. You will create a Data Factory service, and then install the Data Management Gateway which is the agent that facilitates data movement from multiple databases to Microsoft Azure.
 
    >**Note**: Complete the Before HOL setup prior to proceeding to the challenge tasks below. Provide this link to participants to access the setup instructions.
-   ```bash  
-    https://TODO-needlinkfrompublicrepo
-   ``` 
+<https://github.com/msusdev/Industry-Omni-Channel/blob/main/Challenge%20Labs/BeforeTheChallenge/BeforeTheChallenge.md>
 
 ## Create an Azure Data Lake Storage account and Azure Synapse Analytics service
 
